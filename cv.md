@@ -3,6 +3,7 @@
 ### Junior Frontend Developer
 
 --- 
+Contacts:
 - +375298144996 
 - Discord: PotatoDeity#3156
 - E-mail: pav.mikhailau@gmail.com
@@ -14,7 +15,8 @@
 Skills: Git
 
 Code example:
-```function multiply(a, b){
+```
+function multiply(a, b){
   return a * b
 }
 ```
